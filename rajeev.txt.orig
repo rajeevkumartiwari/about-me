@@ -1,5 +1,9 @@
 This is me Rajeev Tiwari
-My color is red and blue
+<<<<<<< HEAD
+My color is add
+=======
+My color is blue
+>>>>>>> blue
 Adding more content
 
 Adding content to master branch now
