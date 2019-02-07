@@ -12,6 +12,7 @@ Temp changes
  change from red
  City:  Sane Ramon
  Count: USA
+ Phone: (415) 530 - 7588
 
 ----------------------
 (C) adding copyright 2079
